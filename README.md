@@ -1,16 +1,16 @@
 <h1 align="center"> Hello Folks 👋</h1>
-<h3 align="center">I am a Software Engineer and Data Science Enthusiast.</h3>
+<h3 align="center">NelsonelTech Solutions Limited</h3>
 
-**1Nelsonel/1Nelsonel** ✨ _Quick Details_ ✨ 
+**NelsonelTech/NelsonelTech** ✨ _Quick Details_ ✨ 
 
 - 🔭 I’m currently working on Django Python & Go Fiber
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 I’m looking to collaborate on NodeJS
-- 🤔 I’m looking for help with React JS
-- 💬 Ask me about Data cleaning, Exploration and Visualization.
-- 📫 How to reach me: nelsonmokoro37@gmail.com
-- 😄 Pronouns: Mr Nelson Mokoro
-- ⚡ Fun fact: Football and Music
+- 👯 We looking to collaborate on NodeJS
+- 🤔 We are looking for talent in React JS
+- 💬 Ask us about Data cleaning, Exploration and Visualization.
+- 📫 How to reach us: nelsoneltech@gmail.com
+- 😄 Pronouns: Mr NelsonelTech Solutions Limited
+- ⚡ :: Your all times modern technology provider
 <hr>
 <hr>
 
@@ -42,36 +42,33 @@
 
  </p>
 
-
-
 <hr>
 <hr>
-
-
 
 ## 📊 My Github Stats
 
 <br/>
 <p align="center">
-        <h3> NelsonelTech Solutions Limited's Contributions <h3/>
-    <a href="https://github.com/1Nelsonel/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="1Nelsonel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1Nelsonel&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<h3> NelsonelTech Solutions Limited's Contributions <h3/>
+<a href="https://github.com/NelsonelTech/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NelsonelTech's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NelsonelTech&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+</a>
 
 <br/>
-            <hr>
 
-  <br/>
+<hr>
+
+<br/>
   
-  <a href="https://github.com/1Nelsonel/github-readme-stats"><img alt="1Nelsonel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=1Nelsonel&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a> 
-  <br/>
-   <hr>         
- <a href="https://github.com/1Nelsonel/github-readme-stats"><img alt="1Nelsonel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Nelsonel&langs_count=8&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-   <br/>
+<a href="https://github.com/NelsonelTech/github-readme-stats"><img alt="NelsonelTech's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NelsonelTech&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a> 
+<br/>
+  <hr>         
+ <a href="https://github.com/NelsonelTech/github-readme-stats"><img alt="NelsonelTech's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonelTech&langs_count=8&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+<br/>
 <hr>
 
 <br/>
 <br/>
-<a href="https://github.com/1Nelsonel/github-readme-activity-graph"><img alt="1Nelsonel Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=1Nelsonel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/NelsonelTech/github-readme-activity-graph"><img alt="NelsonelTech Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NelsonelTech&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
